@@ -1,2 +1,2 @@
-# Estrutura-de-Dados-Exerc-cios-
+# Estrutura-de-Dados-Exercicios-
 Resoluções dos exercícios de EDA
